@@ -16,6 +16,10 @@ This repository contains code and resources for a Dog vs. Cats Classification pr
 python scripts/train_model.py
 ```
 
+### Clone the Repository
+```bash
+python scripts/train_model.py
+```
 
 
 
