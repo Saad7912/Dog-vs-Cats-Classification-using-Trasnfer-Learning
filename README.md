@@ -12,7 +12,7 @@ This repository contains code and resources for a Dog vs. Cats Classification pr
 
 ### Clone the Repository
 
-\```bash
+```bash
 git clone https://github.com/yourusername/Dog-vs-Cats-Classification-using-Transfer-Learning.git
 
 
