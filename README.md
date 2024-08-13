@@ -19,7 +19,7 @@ git clone https://github.com/yourusername/Dog-vs-Cats-Classification-using-Trans
 ### Navigate to the Project Directory
 \```bash
 cd Dog-vs-Cats-Classification-using-Transfer-Learning
-
+\```
 
 ### Note: Ensure you have the following packages installed
 TensorFlow
