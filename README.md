@@ -14,12 +14,12 @@ This repository contains code and resources for a Dog vs. Cats Classification pr
 
 \```bash
 git clone https://github.com/yourusername/Dog-vs-Cats-Classification-using-Transfer-Learning.git
-\```
+
 
 ### Navigate to the Project Directory
 \```bash
 cd Dog-vs-Cats-Classification-using-Transfer-Learning
-\```
+
 
 ### Note: Ensure you have the following packages installed
 TensorFlow
@@ -32,13 +32,13 @@ Matplotlib
 #### 1. Train the Model
 \```bash
 python scripts/train_model.py
-\```
+
 #### 2. Evaluate the Model
 \```bash
 python scripts/evaluate_model.py
-\```
+
 #### 3. Make Predictions
 \```bash
 python scripts/predict.py --image_path path/to/image.jpg
 
-\```
+
