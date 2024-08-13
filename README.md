@@ -1,20 +1,16 @@
-# Dog-vs-Cats-Classification-using-Trasnfer-Learning with MobileNet2
-This project demonstrates the use of transfer learning with the MobileNet model to classify images of dogs and cats. By leveraging a pre-trained MobileNet model, we achieve high accuracy with efficient training.
+# Dog vs. Cats Classification using Transfer Learning with MobileNetV2
 
-# Libraries Used
-TensorFlow
-TensorFlow Hub
-Keras
-NumPy
-Matplotlib (matplotlib.image, matplotlib.pyplot)
-# Key Points
-Transfer Learning: Utilizing a pre-trained MobileNet2 model to improve performance and reduce training time.
-Accuracy: The model achieves an accuracy of about 98.3% on the test set.
-# Usage
-# Train the Model:
-python scripts/train_model.py
-# Evaluate the Model:
-python scripts/evaluate_model.py
-# Make Predictions:
-python scripts/predict.py --image_path path/to/image.jpg
+This repository contains code and resources for a Dog vs. Cats Classification project utilizing Transfer Learning with MobileNetV2. The project aims to build a highly accurate model capable of distinguishing between images of dogs and cats.
 
+## Repository Structure
+
+- **scripts/train_model.py**: A Python script to train the MobileNetV2 model on the dog vs. cat dataset. It handles model training and saves the trained model for later use.
+- **scripts/evaluate_model.py**: A Python script for evaluating the model's performance on a test dataset. It provides accuracy and other performance metrics.
+- **scripts/predict.py**: A Python script for making predictions on new images using the trained model. It takes an image as input and outputs whether it's a dog or a cat.
+
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/Dog-vs-Cats-Classification-using-Transfer-Learning.git
