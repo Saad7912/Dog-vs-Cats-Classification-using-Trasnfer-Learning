@@ -14,3 +14,6 @@ This repository contains code and resources for a Dog vs. Cats Classification pr
 
 ```bash
 git clone https://github.com/yourusername/Dog-vs-Cats-Classification-using-Transfer-Learning.git
+
+cd Dog-vs-Cats-Classification-using-Transfer-Learning
+
